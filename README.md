@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=!Hola+mi+nombre+es;Eduardo+Punina!;" />
 </h1>
 
-<h3 align="center">Soy un estudiante de ingenieria en software,apaconado por el desarrollo web. Soy un aprendiz continuo que se mantiene al tanto de las ultimas tendencias y avances en la tecnologia.</h3>
+<h3 align="center">Soy un estudiante de ingenieria en software,apacionado por el desarrollo web. Soy un aprendiz continuo que se mantiene al tanto de las ultimas tendencias y avances en la tecnologia.</h3>
 <p align='center'>
     <img src="https://www.lambdatest.com/resources/images/news24.gif">
 </p>
