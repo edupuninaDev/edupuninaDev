@@ -8,7 +8,7 @@
 </p>
 
 <div align="center">
-  <a href="mailto:epunina6299@uta.edu.ec">
+  <a href="mailto:epunina6299@uta.edu.ec" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/eduardo-punina-501711220/" target="_blank">
