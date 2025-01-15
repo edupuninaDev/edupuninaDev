@@ -37,7 +37,7 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align="center">
- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=edupuninaDev&theme=dark&hide_border=true&locale=es&short_numbers=true" alt="GitHub Streak" /></a>
+
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=edupuninaDev&show_icons=true&theme=dark"
