@@ -37,7 +37,7 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align="center">
- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=edupuninaDev&theme=dark&hide_border=verdadero&locale=es&short_numbers=verdadero" alt="GitHub Streak" /></a>
+ <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=edupuninaDev&theme=dark&hide_border=true&locale=es&short_numbers=true" alt="GitHub Streak" /></a>
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=edupuninaDev&show_icons=true&theme=dark"
@@ -50,5 +50,4 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=edupuninaDev&show_icons=true" />
 </picture>
    <img width=325 align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edupuninaDev&layout=donut&theme=dark" alt="top langs" />
-</div>
 </div>
