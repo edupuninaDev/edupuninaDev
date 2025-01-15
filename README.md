@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=!Hola+mi+nombre+es;Eduardo+Punina!;" />
 </h1>
 
-<h3 align="center">Soy un estudiante de ingeniería en software, apasionado por el desarrollo web. Soy un aprendiz continuo que se mantiene al tanto de las últimas tendencias y avances en la tecnología.</h3>
+<h3 align="justify">Soy un estudiante de ingeniería en software, apasionado por el desarrollo web. Soy un aprendiz continuo que se mantiene al tanto de las últimas tendencias y avances en la tecnología.</h3>
 <p align='center'>
     <img src="https://www.lambdatest.com/resources/images/news24.gif">
 </p>
@@ -37,19 +37,18 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=edupunina&theme=dark&locale=es" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img align="center"  src="https://streak-stats.demolab.com?user=edupuninaDev&theme=dark&locale=es" alt="GitHub Streak" /></a>
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=edupunina&show_icons=true&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api?username=edupuninaDev&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=edupunina&show_icons=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=edupuninaDev&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=edupunina&show_icons=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=edupuninaDev&show_icons=true" />
 </picture>
-  <br/>
-   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edupunina&layout=donut&theme=dark" alt="top langs" />
+   <img width=325 align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edupuninaDev&layout=donut&theme=dark" alt="top langs" />
 </div>
 </div>
